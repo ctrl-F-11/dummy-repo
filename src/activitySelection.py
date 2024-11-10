@@ -36,6 +36,7 @@ def greedyAS(A):
   return sol
 
 if __name__ == '__main__':
+  print('master1')
   print('index.py')
   print('version3')
 
