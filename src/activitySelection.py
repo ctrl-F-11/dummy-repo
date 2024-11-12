@@ -38,7 +38,7 @@ def greedyAS(A):
 if __name__ == '__main__':
   print('master2')
   print('index.py')
-  print('version7')
+  print('version9')
 
   start = [1, 3, 0, 5, 8, 5]
   finish = [2, 4, 6, 7, 9, 9]
