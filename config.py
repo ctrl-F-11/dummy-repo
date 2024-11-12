@@ -1,2 +1,2 @@
 print('config.py')
-print('slave 1')
+print('slave 2')
