@@ -1,3 +1,3 @@
 print('master2')
 print('config.py')
-print('version6')
+print('version7')
